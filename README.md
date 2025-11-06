@@ -1,4 +1,3 @@
-# jeu-de-soci-t-activit-3
 #include <stdio.h>
 
 #define NB_CASES 12
